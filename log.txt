@@ -1,0 +1,27 @@
+drupal/admin_toolbar                     3.1.0    ! 3.1.1   Provides a drop-down menu interface to the core Drupal Toolbar.
+drupal/advagg                            4.1.0    ~ 5.0.0   Improved aggregation of CSS/JS files to speed up page load times.
+drupal/better_exposed_filters            5.0.0    ! 5.2.0   Replaces the Views default single- or multi-select boxes with more advanced options.
+drupal/checklistapi                      2.0.0    ! 2.1.1   Provides an API for creating fillable, persistent checklists.
+drupal/coder                             8.3.14   ! 8.3.16  Coder is a libraruire this project INSTEAD OF drupal/core.
+drupal/ctools                            3.7.0    ~ 4.0.1   Provides a number of utility and helper APIs for Drupal developers and site builders.
+drupal/devel                             4.1.3    ! 4.1.5   Various blocks, pages, and functions for developers.
+drupal/entity_reference_revisions        1.9.0    ! 1.10.0  Entity Reference Revisions
+drupal/facets                            1.8.0    ~ 2.0.5   The Facet module allows site builders to easily create and manage faceted search interfaces.
+drupal/google_analytics                  3.1.0    ~ 4.0.0   Allows your site y to review Drupal code.
+drupal/colorbox                          1.8.0    ! 1.10.0  A light-weight, customizable lightbox plugin for jQuery.
+drupal/core                              9.3.6    ! 9.4.5   Drupal is an open source content management platform powering millions of websites and applications.
+drupal/core-composer-scaffold            9.3.6    ! 9.4.5   A flexible Composer project scaffold builder.
+drupal/core-dev                          9.3.6    ! 9.4.5   require-dev dependencies from drupal/drupal; use in addition to drupal/core-recommended to run tests from drupal/core.
+drupal/core-recommended                  9.3.6    ! 9.4.5   Locked core dependencies; reqto be tracked by Google Analytics by adding a Javascript tracking code to every page.
+drupal/google_tag                        1.4.0    ! 1.5.0   Allows your website analytics to be managed using Google Tag Manager.
+drupal/jquery_ui_datepicker              1.2.0    ! 1.3.0   Provides jQuery UI Datepicker library.
+drupal/jquery_ui_touch_punch             1.0.0    ! 1.0.1   Provides jQuery UI Touch Punch library.
+drupal/metatag                           1.19.0   ! 1.21.0  Manage meta tags for all entities.
+drupal/paragraphs                        1.12.0   ! 1.14.0  Enables the creation of Paragraphs entities.
+drupal/pathauto                          1.9.0    ! 1.11.0  Provides a mechanism for modules to automatically generate aliases for the content they manage.
+drupal/schema_metatag                    2.2.0    ! 2.3.0   Metatag implementation of Schema.org structured data (JSON-LD)
+drupal/search_api                        1.23.0   ! 1.25.0  Provides a generic framework for modules offering search capabilities.
+drupal/simple_sitemap                    3.11.0   ~ 4.1.2   Creates a standard conform hreflang XML sitemap of the site content and provides a framework for developing other sitemap types.
+drupal/smtp                              1.0.0    ! 1.1.0   Allow for site emails to be sent through an SMTP server of your choice.
+drupal/svg_image                         1.15.0   ! 1.16.0  Overrides the standard image formatter and widget to support SVG files.
+drupal/token                             1.10.0   ! 1.11.0  Provides a user interface for the Token API, some missing core tokens.
